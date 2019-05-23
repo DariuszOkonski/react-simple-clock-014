@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-simple-clock-014/static/css/main.0ab3d88c.chunk.css",
+    "main.js": "/react-simple-clock-014/static/js/main.ac7f0df4.chunk.js",
+    "main.js.map": "/react-simple-clock-014/static/js/main.ac7f0df4.chunk.js.map",
+    "runtime~main.js": "/react-simple-clock-014/static/js/runtime~main.0847aa62.js",
+    "runtime~main.js.map": "/react-simple-clock-014/static/js/runtime~main.0847aa62.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/react-simple-clock-014/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/react-simple-clock-014/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/react-simple-clock-014/index.html",
+    "precache-manifest.c04356f5175c2adfea0f2ab3651dc93b.js": "/react-simple-clock-014/precache-manifest.c04356f5175c2adfea0f2ab3651dc93b.js",
+    "service-worker.js": "/react-simple-clock-014/service-worker.js",
+    "static/css/main.0ab3d88c.chunk.css.map": "/react-simple-clock-014/static/css/main.0ab3d88c.chunk.css.map"
+  }
+}
